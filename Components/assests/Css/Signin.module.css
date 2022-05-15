@@ -1,0 +1,42 @@
+.mybody{
+    background: linear-gradient(to right top, rgb(0 0 0) 0%, rgb(108, 64, 121) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    /* border: 2px solid; */
+    /* border: 2px solid black; */
+    height: 777px;
+}
+
+.signtop{
+    height: 777px;
+    
+}
+.signcol{
+    /* border: 2px solid black; */
+    height: 600px;
+    width: 680px;
+    background-color: white;
+    border-radius: 17px;
+}
+
+.mycontact input{
+    border: none;
+    border-bottom: 2px black;
+    /* outline: none; */
+    border-bottom: 2px solid #b59999;
+}
+
+.myh1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:white;
+}

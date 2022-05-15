@@ -1,0 +1,9 @@
+.myview{
+    border: 2px solid black;
+    min-height: 900px;
+    width: 46rem;
+}
+.myview img{
+    height: 226px;
+    width: 197px;
+}

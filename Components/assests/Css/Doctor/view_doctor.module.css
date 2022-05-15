@@ -1,0 +1,15 @@
+.mybody{
+    background: linear-gradient(to right top, rgb(69 107 143) 0%, rgb(100 157 196) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    /* border: 2px solid; */
+    /* border: 2px solid black; */
+    min-height: 1500px
+}

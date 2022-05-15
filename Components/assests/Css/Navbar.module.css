@@ -1,0 +1,14 @@
+.hii a{
+    text-decoration: none;
+    color:white;
+}
+.mymodal{
+    background-color: black;
+    color: white;
+}
+
+.header{
+    background-color: rgb(45 143 123);
+    margin-bottom: -16px;
+    height: 46px;
+}

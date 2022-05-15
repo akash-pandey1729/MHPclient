@@ -1,0 +1,34 @@
+.h{
+    background: linear-gradient(to right top, rgb(153 155 204) 0%, rgb(102 100 103) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    /* border: 2px solid; */
+    /* border: 2px solid black; */
+    height: 1000px;
+}
+.amintcol{
+    height: 600px;
+    
+}
+.admincol1{
+    height: 600px;
+    background-color: white;
+}
+.admincol  img{
+    width: 100%;
+    /* height: 100%; */
+    
+}
+.admincol2{
+    height: 600px;
+    background-color:black;
+    color: white;
+
+}
